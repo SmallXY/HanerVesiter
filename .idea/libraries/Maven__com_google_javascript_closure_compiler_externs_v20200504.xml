@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.javascript:closure-compiler-externs:v20200504">
+    <CLASSES>
+      <root url="jar://D:/User/Xuan/.m2/repository/com/google/javascript/closure-compiler-externs/v20200504/closure-compiler-externs-v20200504.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/User/Xuan/.m2/repository/com/google/javascript/closure-compiler-externs/v20200504/closure-compiler-externs-v20200504-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/User/Xuan/.m2/repository/com/google/javascript/closure-compiler-externs/v20200504/closure-compiler-externs-v20200504-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
