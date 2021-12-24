@@ -5,7 +5,6 @@ import geb.spock.GebSpec
 
 import org.springframework.boot.test.context.SpringBootTest
 
-import net.go176.AppConfiguration
 
 class IndexPage extends Page {
     static url = 'http://localhost:8080/'
