@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite">
+    <groups>
+    </groups>
+    <test name="Surefire test">
+      <class name="net.go176.AppTest">
+        <test-method signature="testApp()" started-at="2021-12-20T23:33:58Z" name="testApp" finished-at="2021-12-20T23:33:58Z" duration-ms="2" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
